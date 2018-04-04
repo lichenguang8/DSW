@@ -48,7 +48,7 @@
                         	<tr height=20>
 								<td align=middle width=30><img height=9
 									src="./img/menu_icon.gif" width=9></td>
-								<td><a class=menuchild href="msg.html" target="right">${item.menuName}</a>
+								<td><a class=menuchild href="${item.menuUrl}" target="right">${item.menuName}</a>
 								</td>
 							</tr>
                         <tr height=4>

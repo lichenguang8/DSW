@@ -10,12 +10,12 @@
         <title>main.jsp</title>
     </head>
 		<frameset border=0 framespacing=0 rows="60, *" frameborder=0>
-        <frame name=head src="../head.jsp" frameborder=0 noresize scrolling=no>
-            <frameset cols="170, *">
-                <frame name=left src="../left.jsp" frameborder=0 noresize />
-                <frame name=right src="../right.jsp" frameborder=0 noresize scrolling=yes />
-            </frameset>
-    </frameset>		
+        	<frame name=head src="../head.jsp" frameborder=0 noresize scrolling=no>
+	            <frameset cols="170, *">
+	                <frame name=left src="../left.jsp" frameborder=0 noresize />
+	                <frame name=right src="../right.jsp" frameborder=0 noresize scrolling=yes />
+	            </frameset>
+    	</frameset>		
     <noframes>	
     </noframes>
 </html>
